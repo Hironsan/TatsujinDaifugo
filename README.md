@@ -8,11 +8,20 @@
 - [実行方法](#実行方法)
 - [使い方](#使い方)
 
-##動作環境
-動作環境は以下の通りです。
-* OS: Windows 7 or Ubuntu 14.04
-* 言語: Python 3.4
-* DBMS: PostgreSQL 9.4
+## アーキテクチャ
+### システム構成
+* 開発言語
+ * Python 3.4, JavaScript
+* フレームワーク
+ * Tornado
+* DB
+ * PostgreSQL 9.4
+* 対象ブラウザ
+ * Google Chrome, FireFox
+
+### モデル構成
+
+### 通信方式
 
 
 ##インストール方法
